@@ -1,0 +1,162 @@
+[
+	{
+		"id": 1,
+		"title": "Samsung Galaxy S21",
+		"description": "Potente smartphone con cámara de alta resolución",
+		"price": 799,
+		"thumbnail": "https://example.com/samsung-s21.jpg",
+		"code": "SGS21"
+	},
+	{
+		"id": 2,
+		"title": "iPhone 13",
+		"description": "Último modelo de iPhone con pantalla OLED",
+		"price": 999,
+		"thumbnail": "https://example.com/iphone-13.jpg",
+		"code": "IP13"
+	},
+	{
+		"id": 3,
+		"title": "Google Pixel 5",
+		"description": "Teléfono con enfoque en la fotografía y la experiencia Android",
+		"price": 699,
+		"thumbnail": "https://example.com/google-pixel-5.jpg",
+		"code": "GPX5"
+	},
+	{
+		"id": 4,
+		"title": "OnePlus 9",
+		"description": "Dispositivo con rendimiento ágil y carga rápida",
+		"price": 799,
+		"thumbnail": "https://example.com/oneplus-9.jpg",
+		"code": "OP9"
+	},
+	{
+		"id": 5,
+		"title": "Xiaomi Mi 11",
+		"description": "Smartphone con potente procesador y cámara versátil",
+		"price": 649,
+		"thumbnail": "https://example.com/xiaomi-mi-11.jpg",
+		"code": "XMI11"
+	},
+	{
+		"id": 6,
+		"title": "Sony Xperia 5 III",
+		"description": "Teléfono con enfoque en multimedia y entretenimiento",
+		"price": 999,
+		"thumbnail": "https://example.com/sony-xperia-5-iii.jpg",
+		"code": "SXP5III"
+	},
+	{
+		"id": 7,
+		"title": "Motorola Edge",
+		"description": "Dispositivo con pantalla envolvente y características destacadas",
+		"price": 699,
+		"thumbnail": "https://example.com/motorola-edge.jpg",
+		"code": "MDR"
+	},
+	{
+		"id": 8,
+		"title": "Realme GT",
+		"description": "Smartphone con alto rendimiento y carga rápida",
+		"price": 499,
+		"thumbnail": "https://example.com/realme-gt.jpg",
+		"code": "RLMGT"
+	},
+	{
+		"id": 9,
+		"title": "LG Velvet",
+		"description": "Dispositivo con diseño atractivo y características multimedia",
+		"price": 599,
+		"thumbnail": "https://example.com/lg-velvet.jpg",
+		"code": "LGVLT"
+	},
+	{
+		"id": 10,
+		"title": "BlackBerry Key2",
+		"description": "Teléfono con teclado físico y enfoque en la seguridad",
+		"price": 549,
+		"thumbnail": "https://example.com/blackberry-key2.jpg",
+		"code": "BBK2"
+	},
+	{
+		"id": 11,
+		"title": "Nokia 9 PureView",
+		"description": "Smartphone con cámara de 5 lentes y calidad de imagen",
+		"price": 599,
+		"thumbnail": "https://example.com/nokia-9-pureview.jpg",
+		"code": "NKP9"
+	},
+	{
+		"id": 12,
+		"title": "Huawei P40",
+		"description": "Dispositivo con cámara avanzada y rendimiento de gama alta",
+		"price": 699,
+		"thumbnail": "https://example.com/huawei-p40.jpg",
+		"code": "HWP40"
+	},
+	{
+		"id": 13,
+		"title": "Oppo Find X3",
+		"description": "Teléfono con diseño elegante y potencia fotográfica",
+		"price": 799,
+		"thumbnail": "https://example.com/oppo-find-x3.jpg",
+		"code": "OPFX3"
+	},
+	{
+		"id": 14,
+		"title": "Vivo X60 Pro",
+		"description": "Smartphone con estabilización de imagen y rendimiento fluido",
+		"price": 699,
+		"thumbnail": "https://example.com/vivo-x60-pro.jpg",
+		"code": "VVX60P"
+	},
+	{
+		"id": 15,
+		"title": "Lenovo Legion Duel 2",
+		"description": "Dispositivo orientado al gaming con potencia y enfriamiento",
+		"price": 899,
+		"thumbnail": "https://example.com/lenovo-legion-duel-2.jpg",
+		"code": "LLD2"
+	},
+	{
+		"id": 16,
+		"title": "Redmi Note 10 Pro",
+		"description": "Teléfono con gran autonomía y cámara de alta resolución",
+		"price": 299,
+		"thumbnail": "https://example.com/redmi-note-10-pro.jpg",
+		"code": "RN10P"
+	},
+	{
+		"id": 17,
+		"title": "Poco X3",
+		"description": "Smartphone con batería de larga duración y rendimiento sólido",
+		"price": 249,
+		"thumbnail": "https://example.com/poco-x3.jpg",
+		"code": "PCX3"
+	},
+	{
+		"id": 18,
+		"title": "ZTE Axon 30 Ultra",
+		"description": "Dispositivo con cámara de 64 MP y rendimiento potente",
+		"price": 749,
+		"thumbnail": "https://example.com/zte-axon-30-ultra.jpg",
+		"code": "ZTA30U"
+	},
+	{
+		"id": 19,
+		"title": "TCL 20 Pro 5G",
+		"description": "Teléfono con cámara de 48 MP y diseño atractivo",
+		"price": 499,
+		"thumbnail": "https://example.com/tcl-20-pro-5g.jpg",
+		"code": "TCL20P"
+	},
+	{
+		"id": 20,
+		"title": "Cat S62 Pro",
+		"description": "Smartphone resistente con cámara térmica y durabilidad",
+		"price": 649,
+		"thumbnail": "https://example.com/cat-s62-pro.jpg",
+		"code": "CTS62P"
+	}
+]
