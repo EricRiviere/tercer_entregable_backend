@@ -3,6 +3,7 @@ import ProductList from "./ProductsList.json" assert { type: "json" };
 import express from "express";
 
 const app = express();
+app.use(express.urlencoded({ extended: true }));
 const port = 8080;
 
 app.get("/products/", (req, res) => {
