@@ -1,7 +1,7 @@
 import Product from "./Product.js";
 import fs from "fs";
 
-class ProductManager {
+export class ProductManager {
   constructor(path) {
     this.path = path;
     if (fs.existsSync(this.path)) {
@@ -48,7 +48,7 @@ class ProductManager {
   }
 
   getProducts() {
-    console.log(this.products);
+    return this.products;
   }
 
   findProductById(id) {
